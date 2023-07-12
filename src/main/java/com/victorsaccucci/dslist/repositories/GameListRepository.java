@@ -1,6 +1,5 @@
 package com.victorsaccucci.dslist.repositories;
 
-import com.victorsaccucci.dslist.entities.Game;
 import com.victorsaccucci.dslist.entities.GameList;
 import org.springframework.data.jpa.repository.JpaRepository;
 
