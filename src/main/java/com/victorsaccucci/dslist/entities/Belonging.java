@@ -1,20 +1,23 @@
 package com.victorsaccucci.dslist.entities;
 
 import java.util.Objects;
+
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
 @Table(name = "tb_belonging")
 public class Belonging {
-    @EmbeddedId
+   @EmbeddedId
     private BelongingPK id = new BelongingPK();
 
     private Integer position;
 
-    public Belonging(BelongingPK id, Integer position) {
-        this.id = id;
+    public Belonging(Game game, GameList list, Integer position) {
+        id.setGame(game);
+        id.setList(list);
         this.position = position;
     }
     public Belonging(){
