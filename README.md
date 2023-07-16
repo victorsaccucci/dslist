@@ -6,8 +6,7 @@ através de listas. Caso o usuário deseje ver informações adicionais sobre o 
 imagem, contendo, assim, informações específicas sobre o jogo.
 
 #Tecnologias utilizadas no back-end
-##
-- Java
+##- Java
 - Spring boot
 - JPA / Hibernate
 - Maven
