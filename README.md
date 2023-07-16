@@ -8,14 +8,12 @@ através de listas. Caso o usuário deseje ver informações adicionais sobre o 
 imagem, contendo, assim, informações específicas sobre o jogo.
 
 #Tecnologias utilizadas no back-end
-##
 - Java
 - Spring boot
 - JPA / Hibernate
 - Maven
 
 #Implantação em produção
-##
 - Banco de dados: H2 e Postgres
 - Docker
 - Railway
