@@ -14,4 +14,11 @@ imagem, contendo, assim, informações específicas sobre o jogo.
 - JPA / Hibernate
 - Maven
 
+#Implantação em produção
+##
+- Banco de dados: H2 e Postgres
+- Docker
+- Postman
+  
+
   
