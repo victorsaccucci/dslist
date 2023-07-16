@@ -18,7 +18,7 @@ imagem, contendo, assim, informações específicas sobre o jogo.
 ##
 - Banco de dados: H2 e Postgres
 - Docker
-- Postman
+- Railway
   
 
   
