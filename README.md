@@ -17,6 +17,7 @@ imagem, contendo, assim, informações específicas sobre o jogo.
 - Banco de dados: H2 e Postgres
 - Docker
 - Railway
-  
 
-  
+#Modelo de domínio DSlist
+
+![254097963-11f9f320-6176-4e65-95e7-f0fb8ea3e050](https://github.com/victorsaccucci/dslist/assets/83379193/42c1b57d-2727-4b49-8979-2ffbe50fed49)
