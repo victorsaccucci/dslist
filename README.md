@@ -14,7 +14,7 @@ imagem, contendo, assim, informações específicas sobre o jogo.
 - Maven
 
 #Implantação em produção
-- Banco de dados: H2 e Postgres
+- Banco de dados: H2, Postgres e MySQL
 - Docker
 - Railway
 
